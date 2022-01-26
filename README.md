@@ -21,3 +21,4 @@ Moolya Way of Testing needs fun people who make it easy for each other and who d
 
 They wonder why they aren't getting their Testing, QA and Automation wrong (we mean painful). They wonder so much because they have invested in the most talented people to come on board. Having a talented team and a bad culture is like asking top football teams to play in the night without the lights on.
 
+![ Moolya way of Testing ] (https://github.com/MoolyaSoftwareTesting/Moolya-way-of-testing/blob/main/images/Moolya_way_of_Testing.png)
