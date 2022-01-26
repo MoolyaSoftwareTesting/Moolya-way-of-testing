@@ -1,4 +1,4 @@
-# 📖 Moolya Way of Testing. What is it?
+# 💜 Moolya Way of Testing. What is it?
 
 A lot of people focus on skills.
 Testing skills are needed to execute our work.
@@ -124,12 +124,12 @@ Also in some contexts, we need to provide more PO value and in others more tech 
 Feedback to BA and PO on the requirements and usefulness to the business.
 #### Tech value: 
 Feedback to developers on how they can prevent these issues and reporting bugs and observations by deeper technical investigation than surface-level issues.
-#### Test value: 
-Implementing different coverage models. 
+
 #### Customer's customer value: 
 Putting yourselves in the shoes of the users, finding things that the users want and articulating the feedback in a credible way.
 
-### ✔️ Test Coverage 
+#### Test value: 
+Implementing different coverage models. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.
      
 </p>
