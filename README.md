@@ -51,6 +51,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
      
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.   
 
+ ### 👩‍💼 Traits 
+     -Questioning
+     -Exploring
+     -People connect
 </p>
 </details>   
 
@@ -88,6 +92,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  #### Risk model
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.
 
+  ### 👩‍💼 Traits 
+     -Critical thinking
+     -System thinking
+ 
+A mental model used by Moolyans to test Mobile Apps. 
+     
+     
+     
 </p>
 </details> 
 
@@ -132,5 +144,13 @@ Putting yourselves in the shoes of the users, finding things that the users want
 Implementing different coverage models. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.
      
+ ### 👩‍💼 Traits 
+     -Observational
+     -Note taking
+     -People connect     
 </p>
-</details>     
+</details>
+
+## Moolya Way of Testing. What isn't it?
+Starting with a template, but MWT starts with requirements of BA,PO, developers, CTOs and other interested stakeholders.
+Is not Agile Testing, is not TDD, is not BDD.
