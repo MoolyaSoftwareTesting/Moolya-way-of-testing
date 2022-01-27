@@ -97,8 +97,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
      -System thinking
  
 A mental model used by Moolyans to test Mobile Apps. 
-     
-     
+
+   
+![Mobile App Test Model](/images/COP_FLUNG_GUN.png)
      
 </p>
 </details> 
