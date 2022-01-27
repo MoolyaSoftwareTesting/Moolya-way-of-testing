@@ -42,39 +42,39 @@ Moolya Way of Testing needs fun people who make it easy for each other and who d
 ### 💰 Business context
      
 Business wants a specific customer pain solved through product. They want customer getting added month on month. They want revenue to grow, profits to grow. To understand the busniess context one to find answers to questions like
-     * What's their bussiness mission?
-     * Vision of the customer
-     * Customer's Org culture
-     * How does the customer make money?
-     * How do users discover the customer and their products?
-     * What is the USP of the customer?
-     * Who are the competitors? & How to compare them ?
-     * Short Term, Long Term goals
-     * Claims made & Claims customer are unable to achieve
-     * Purpose of the product
-     * Name of the product. Why did they name it that way? 
-     * History of the product
-     * Key risks in the product
+* What's their bussiness mission?
+* Vision of the customer
+* Customer's Org culture
+* How does the customer make money?
+* How do users discover the customer and their products?
+* What is the USP of the customer?
+* Who are the competitors? & How to compare them ?
+* Short Term, Long Term goals
+* Claims made & Claims customer are unable to achieve
+* Purpose of the product
+* Name of the product. Why did they name it that way? 
+* History of the product
+* Key risks in the product
          
 ### 👨‍👩‍👧‍👦  User context    
      
 Unless the end use (our customer's customer) embraced the product the business is not gone succeed. How do we understand the context of users? 
-     * Who is the target audience?
-     * Why do you think they use the product?
-     * Who are the direct and indirect users?
-     * User persona models
-     * How easily is it available to the users?
-     * Consistency with other familiar products?
-     * How easy/hard is for the competitor product user to migrate to your product?
+* Who is the target audience?
+* Why do you think they use the product?
+* Who are the direct and indirect users?
+* User persona models
+* How easily is it available to the users?
+* Consistency with other familiar products?
+* How easy/hard is for the competitor product user to migrate to your product?
              
 ### 💻  Tech context    
      
 Without know hows of how product is build and how it is solving the customer problem testers will not be able to test the product efficiently. The CTOs and VP Engineering want from testers is Speed. They don't want Testing to become a bottleneck. By understanding the building blocks of the product the testers can speak to the developers in their laugage and move faster. 
-     * Structure of the product - Code, Hardware,server architecture, non-executables,EULA,user guide.
-     * Interfaces - GUI, APIs, third party interface, system interface.
-     * Why this technology?
-     * Advantages / Limitation of the tech stack.
-     * Platforms supported
+* Structure of the product - Code, Hardware,server architecture, non-executables,EULA,user guide.
+* Interfaces - GUI, APIs, third party interface, system interface.
+* Why this technology?
+* Advantages / Limitation of the tech stack.
+* Platforms supported
    
 
  ### 👩‍💼 Traits 
