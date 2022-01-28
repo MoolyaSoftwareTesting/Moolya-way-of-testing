@@ -188,7 +188,7 @@ Putting yourselves in the shoes of the users, finding things that the users want
 * Charima - Aesthetics, uniqueness, gamification
 
 #### Test value: 
-Implementing different coverage models. 
+Implementing different coverage models. How thoroughly have you examined the product with respect to choose model. So if you chose a model that is 'writing n test cases and executing all of them' then one can achieve 100% test coverage. 
 
      
  ### 👩‍💼 Traits 
