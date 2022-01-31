@@ -110,14 +110,6 @@ You build models of how to test and convey what is tested.
      
 Our thinking capacity and quality depends on the models in our head and their usefulness in the given context. The more model you have the better you test.
 
-### The mental models of Testing
-     
- #### Test strategy model
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.    
- #### Test Coverage model
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.
- #### Risk model
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.
 
   ### 👩‍💼 Traits 
      * Critical thinking
