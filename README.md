@@ -1,22 +1,34 @@
-# 💜 Moolya Way of Testing. What is it?
+# Moolya Way of Testing
 
-A lot of people focus on skills.
-Testing skills are needed to execute our work.
-Skills solve the problem of "how to do things?"
-Context understanding solves the problem of "Why to do things?" and "What things to do (and not do)?"
+Vision : Prevent bugs and tech debt for deep tech startups and startup savvy enterprises
 
-A lot of people in our industry are skill hungry and learning hungry. They think they are going to be obsolete or grow slow if they are going to not learn new skills and tools. While it is true but growth means to go beyond How and find answers to Why, What and When.
+Why? 
 
->### Moolya Way of Testing is about asking fundamental questions before jumping in. 
+For ages QA and Testing roles have been linked to quality but the view of teams that test is limited to finding and reporting bugs. Major upstream contributors to bugs are Culture, Customer Understanding, Design, Architecture and Documentation. Instead of preventing bugs in these areas, the industry is largely enjoying building safety nets downstream. That's a waste of human potential. 
 
-This way, we don't dig a hole in a place where what we are looking for is not there.
+The top 2% of orgs in the world build culture, product and engineering teams that prevent bugs upstream and not do that downstream.
 
-We solve 60% of the testing problem before testing actually begins.
-If we fail to do that, we will need to give 200% to solve the problem. 100% effort to get it to the point that we realize we are wrong and then re-do it. Most UI Automation in our industry is 200% effort. Not 100%.
+How?
 
-If you have a chance to go to Mars, of course you know you can't take everyone in the rocket. So there are going to be a few people with whom you are going to spend many years. You want your fellow travelers to be fun people.
+Wide
 
-Moolya Way of Testing needs fun people who make it easy for each other and who don't compete against each other. We solve 30% of the Testing problem through our culture. Without the right culture, organizations struggle to succeed.They wonder why they aren't getting their Testing, QA and Automation wrong (we mean painful). They wonder so much because they have invested in the most talented people to come on board. Having a talented team and a bad culture is like asking top football teams to play in the night without the lights on.
+- Influence the culture of the org
+- Talk to people upstream
+- Build the culture of quality
+- Understand customers and users
+- Understand revenue model
+- Understand industry
+- Understand competition
+- Understand business contexts
+
+Deep
+
+- Build product test teams (not teams who just test in sprints)
+- Build tech test teams (who are not automation engineers but review code)
+
+
+# The philosophies of testing we subscribe to
+
 
 
 # ➰ Software Testing is a feedback loop
@@ -30,9 +42,9 @@ Moolya Way of Testing needs fun people who make it easy for each other and who d
  * That someone wants to know if customers have obstacles in using the product.
  * That someone wants to know if customers’ pain is really solved through the product.
  * That someone hopes everyone in the company evolves based on the feedback.
- * The feedback loop to evolve is called Testing.
+ * The feedback loop to evolve is called Testing.  
      
- ![Moolya way of Testing](/images/Moolya_way_of_Testing.png)
+ ![Moolya way of Testing](/images/Moolya_way_of_Testing.png) 
 
  
 <details><summary> 📖 Context Understanding</summary>
