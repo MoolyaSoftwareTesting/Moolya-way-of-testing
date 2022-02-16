@@ -1,16 +1,16 @@
 # Moolya Way of Testing
 
-Vision : Prevent bugs and tech debt for deep tech startups and startup savvy enterprises
+## Vision : Prevent bugs and tech debt for deep tech startups and startup savvy enterprises
 
-Why? 
+### Why? 
 
 For ages QA and Testing roles have been linked to quality but the view of teams that test is limited to finding and reporting bugs. Major upstream contributors to bugs are Culture, Customer Understanding, Design, Architecture and Documentation. Instead of preventing bugs in these areas, the industry is largely enjoying building safety nets downstream. That's a waste of human potential. 
 
 The top 2% of orgs in the world build culture, product and engineering teams that prevent bugs upstream and not do that downstream.
 
-How?
+### How?
 
-Wide
+### Wide
 
 - Influence the culture of the org
 - Talk to people upstream
@@ -21,7 +21,7 @@ Wide
 - Understand competition
 - Understand business contexts
 
-Deep
+### Deep
 
 - Build product test teams (not teams who just test in sprints)
 - Build tech test teams (who are not automation engineers but review code)
@@ -47,7 +47,7 @@ Deep
  ![Moolya way of Testing](/images/Moolya_way_of_Testing.png) 
 
  
-<details><summary> 📖 Context Understanding</summary>
+<details><summary> 📖 Understanding context</summary>
 <p>
 
 
@@ -96,55 +96,10 @@ Without know hows of how product is build and how it is solving the customer pro
 </p>
 </details>   
 
-<details><summary> 🗺️ Mental Modelling</summary>
+<details><summary> 📖 Understanding customers</summary>
 <p>
      
-Models are [simplified] respresentation of complex things. It's a way of linking theory with experiment. 
-We all have it in our mind to 
-* Understand
-* Learn
-* Explore
-* Recognize
-When we learn something about the model, we later apply to more complex things. 
-     
->### Models are central to the process of knowledge building.
-
-Use existing models to understand/learn about software that you have to test. 
-* Requirement documents
-* Wireframes
-* Mock screens
-* Architecture diagrams 
-     
-You build models of how to test and convey what is tested. 
-* Test ideas
-* Test coverage 
-* Test strategy
-     
-Our thinking capacity and quality depends on the models in our head and their usefulness in the given context. The more model you have the better you test.
-
-
-  ### 👩‍💼 Traits 
-     * Critical thinking
-     * System thinking
- 
-A mental model used by Moolyans to test Mobile Apps. 
-
-   
-![Mobile App Test Model](/images/COP%20FLUNG%20GUN.png)
-     
-</p>
-</details> 
-
-<details><summary> ⚙️ Test Execution and Analysis</summary>
-<p>
-     
-Using the mental models design powerful tests. The tests are then exexuted either brainually or automated scripts. 
-
-</p>
-</details> 
-  
-<details><summary> 📊 Test Reporting</summary>
-<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.   
      
 ### 💲 value 
      
@@ -194,39 +149,7 @@ Putting yourselves in the shoes of the users, finding things that the users want
 #### Test value: 
 Implementing different coverage models. How thoroughly have you examined the product with respect to choose model. So if you chose a model that is 'writing n test cases and executing all of them' then one can achieve 100% test coverage. 
 
-     
- ### 👩‍💼 Traits 
-     * Observational
-     * Note taking
-     * People connect 
-     * Courage
-</p>
-</details>
-
-
-<details><summary> 🧰 Tools used by Moolyans </summary>
-<p>
-     
-### 🧠 Brain
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.  
-     
-### 🗺️ Mindmaps
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur. 
-     
-### 📝 Pen and Paper / Any simple note take app
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur. 
-     
-### 🐛 Bugasura
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur. 
-     
-### 📈 Spreadsheets, Coda and Datastudio
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur. 
-</p>
-</details>
-
-## Moolya Way of Testing. What isn't it?
-Starting with a template, but MWT starts with requirements of BA,PO, developers, CTOs and other interested stakeholders.
-Is not Agile Testing, is not TDD, is not BDD.
+ 
 
 ## 😊 Spread the word!
 
