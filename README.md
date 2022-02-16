@@ -30,7 +30,7 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
 
 ## The philosophies of testing we subscribe to
 
-Complete testing is impossible for any software. We can't cover everything.</br>
+Complete testing is impossible for any software. We can't cover everything.
 Testing is sampling. Good testing = Right sampling.</br>
 Right or wrong is determined by the context.
 
