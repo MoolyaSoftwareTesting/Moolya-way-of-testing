@@ -2,7 +2,7 @@
 
 ## Vision 
 
-> ### Prevent bugs and tech debt for deep tech startups and startup savvy enterprises
+> ### _Prevent bugs and tech debt for deep tech startups and startup savvy enterprises._
 
 ### Why?
 For ages QA and Testing roles have been linked to quality but the view of teams that test is limited to finding and reporting bugs. Major upstream                  contributors to bugs are Culture, Customer Understanding, Design, Architecture and Documentation. Instead of preventing bugs in these areas, the                    industry is largely enjoying building safety nets downstream. That's a waste of human potential. 
