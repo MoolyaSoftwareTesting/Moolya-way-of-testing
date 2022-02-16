@@ -11,7 +11,7 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
      
 ### How?
 
-### Wide
+#### Wide
 
 - Influence the culture of the org
 - Talk to people upstream
@@ -22,7 +22,7 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
 - Understand competition
 - Understand business contexts
 
-### Deep
+#### Deep
 
 - Build product test teams (not teams who just test in sprints)
 - Build tech test teams (who are not automation engineers but review code)
