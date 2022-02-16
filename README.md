@@ -204,7 +204,7 @@ Putting yourselves in the shoes of the users, finding things that the users want
 </p>
 </details>
 
-<details><summary> ⚙️Test value: : </summary>
+<details><summary> ⚙️Test value: </summary>
 <p> 
 Implementing different coverage models. How thoroughly have you examined the product with respect to choose model. So if you chose a model that is 'writing n test cases and executing all of them' then one can achieve 100% test coverage. 
 
