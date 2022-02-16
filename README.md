@@ -1,8 +1,8 @@
  <h1 align="center"> Moolya Way of Testing </h1>
 
-# Vision 
+## Vision 
 
-> ## _Prevent bugs and tech debt for deep tech startups and startup savvy enterprises._
+>  **_Prevent bugs and tech debt for deep tech startups and startup savvy enterprises._**
 
 ## Why?
 For ages QA and Testing roles have been linked to quality but the view of teams that test is limited to finding and reporting bugs. Major upstream                  contributors to bugs are Culture, Customer Understanding, Design, Architecture and Documentation. Instead of preventing bugs in these areas, the                    industry is largely enjoying building safety nets downstream. That's a waste of human potential. 
@@ -30,6 +30,10 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
 
 ## The philosophies of testing we subscribe to
 
+Complete testing is impossible for any software. We can't cover everything.</br>
+Testing is sampling. Good testing = Right sampling.</br>
+Right or wrong is determined by the context.
+
 ### Software Testing is a feedback loop
 
  * Someone has a business idea to solve a pain point across customers.
@@ -43,18 +47,27 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
  * That someone hopes everyone in the company evolves based on the feedback.
  * The feedback loop to evolve is called Testing.  
 
+```
+Feedback = The product doesn't work as per the requirements + 
+The product requirements could be wrong + 
+The Product violates user agreements + 
+The product first time user experience isn't great + 
+The Product is inconsistent to claims + that + that + that...
+```
+
+     
      
 ## Testing methodology
 
-     Skills leading to 
-     Understanding the context, leading to
-     Modeling, leading to
-     Techniques, leading to
-     Setup, leading to
-     Tests, leading to
-     Observations, leading to
-     Interpretation of Results, leading to
-     Influencing people
+* Skills leading to </br>
+* Understanding the context, leading to </br>
+* Modeling, leading to </br>
+* Techniques, leading to </br>
+* Setup, leading to </br>
+* Tests, leading to </br>
+* Observations, leading to </br>
+* Interpretation of Results, leading to </br>
+* Influencing people.
      
      
  ![Moolya way of Testing](/images/Moolya_way_of_Testing.png) 
