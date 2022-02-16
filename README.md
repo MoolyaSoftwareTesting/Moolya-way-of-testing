@@ -8,8 +8,6 @@
 For ages QA and Testing roles have been linked to quality but the view of teams that test is limited to finding and reporting bugs. Major upstream                  contributors to bugs are Culture, Customer Understanding, Design, Architecture and Documentation. Instead of preventing bugs in these areas, the                    industry is largely enjoying building safety nets downstream. That's a waste of human potential. 
 
 The top 2% of orgs in the world build culture, product and engineering teams that prevent bugs upstream and not do that downstream.
-
-</details>
      
 ### How?
 
@@ -32,9 +30,7 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
 
 ## The philosophies of testing we subscribe to
 
-<details><summary>Software Testing is a feedback loop</summary>
-<p>
-
+### Software Testing is a feedback loop
 
  * Someone has a business idea to solve a pain point across customers.
  * That someone wants to build a product that solves the identified pain.
@@ -48,12 +44,8 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
  * The feedback loop to evolve is called Testing.  
 
      
-</p>
-</details>
+### Testing methodology
 
-<details><summary>Testing methodology</summary>
-<p>
-     
      Skills leading to 
      Understanding the context, leading to
      Modeling, leading to
@@ -67,14 +59,11 @@ The top 2% of orgs in the world build culture, product and engineering teams tha
      
  ![Moolya way of Testing](/images/Moolya_way_of_Testing.png) 
 
-</p>
-</details>
 
 ## 📖 Understanding context
 
 
-<details><summary>💰 Business context</summary>
-<p>
+### 💰 Business context
      
 Business wants a specific customer pain solved through product. They want customer getting added month on month. They want revenue to grow, profits to grow. To understand the busniess context one to find answers to questions like
 * What's their bussiness mission?
@@ -90,12 +79,8 @@ Business wants a specific customer pain solved through product. They want custom
 * Name of the product. Why did they name it that way? 
 * History of the product
 * Key risks in the product
-     
-</p>
-</details>
-    
-<details><summary>👨‍👩‍👧‍👦  User context</summary>
-<p>
+
+### 👨‍👩‍👧‍👦  User context
 
 Unless the end use (our customer's customer) embraced the product the business is not gone succeed. How do we understand the context of users? 
 * Who is the target audience?
@@ -106,12 +91,8 @@ Unless the end use (our customer's customer) embraced the product the business i
 * Consistency with other familiar products?
 * How easy/hard is for the competitor product user to migrate to your product?
 
-</p>
-</details> 
+### 👨‍💻 Tech context
 
-<details><summary>👨‍💻  Tech context  </summary>
-<p>
-     
 Without know hows of how product is build and how it is solving the customer problem testers will not be able to test the product efficiently. The CTOs and VP Engineering want from testers is Speed. They don't want Testing to become a bottleneck. By understanding the building blocks of the product the testers can speak to the developers in their laugage and move faster. 
 * Structure of the product - Code, Hardware,server architecture, non-executables,EULA,user guide.
 * Interfaces - GUI, APIs, third party interface, system interface.
@@ -119,24 +100,12 @@ Without know hows of how product is build and how it is solving the customer pro
 * Advantages / Limitation of the tech stack.
 * Platforms supported
 
-</p>
-</details> 
-
-
 ## 🧑‍💼 Understanding customer
-<details><summary> 🧑‍💼 Understanding customer </summary>
-<p>
-     
+ 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          eu fugiat nulla pariatur.   
-     
-</p>
-</details> 
 
-
- ## 🥇Value 
-<details><summary>There are three important stakeholders for Testers.</summary>
-<p>
-     
+## 🥇Value 
+There are three important stakeholders for Testers.
 ```
 The Business, 
 The Product Team (PO and BA), and 
@@ -157,12 +126,8 @@ To do that,
 * We don’t do things to please people
 The above forms a fundamental to test value from Moolya to stakeholders who hire us.
 Also in some contexts, we need to provide more PO value and in others more tech value.
-</p>
-</details> 
-
      
-<details><summary> 📱Product value: </summary>
-<p>
+### 📱Product value:
  
 Feedback to BA and PO on the requirements and usefulness to the business. Any information or bugs assess the impact and report the impact on
 * Revenue
@@ -172,13 +137,8 @@ Feedback to BA and PO on the requirements and usefulness to the business. Any in
 * Marketing spend usefulness
 * Bottom line
 
-</p>
-</details> 
-     
-     
-<details><summary> 💻 Tech value: </summary>
-<p>
-      
+### 💻 Tech value:
+
 Feedback to developers on how they can prevent these issues and reporting bugs and observations by deeper technical investigation than surface-level issues.
 The tech wants speed. Any information or bugs assess the impact and report the impact on
 * Security threat
@@ -188,11 +148,7 @@ The tech wants speed. Any information or bugs assess the impact and report the i
 * Scalability
 * Compatibility
 
-</p>
-</details> 
-     
-<details><summary> 👨‍👩‍👧‍👦 Customer's customer value: </summary>
-<p>
+### 👨‍👩‍👧‍👦 Customer's customer value: 
 
 Putting yourselves in the shoes of the users, finding things that the users want and articulating the feedback in a credible way. Here again the impact on end user
 * Correctness
@@ -201,15 +157,9 @@ Putting yourselves in the shoes of the users, finding things that the users want
 * Consistency
 * Charima - Aesthetics, uniqueness, gamification
 
-</p>
-</details>
+### ⚙️Test value: 
 
-<details><summary> ⚙️Test value: </summary>
-<p> 
 Implementing different coverage models. How thoroughly have you examined the product with respect to choose model. So if you chose a model that is 'writing n test cases and executing all of them' then one can achieve 100% test coverage. 
-
-</p>
-</details> 
 
 ## 😊 Spread the word!
 
