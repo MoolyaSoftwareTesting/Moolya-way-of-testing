@@ -191,7 +191,7 @@ The tech wants speed. Any information or bugs assess the impact and report the i
 </p>
 </details> 
      
-<details><summary> 👨‍👩‍👧‍👦 Customer's customer value: : </summary>
+<details><summary> 👨‍👩‍👧‍👦 Customer's customer value: </summary>
 <p>
 
 Putting yourselves in the shoes of the users, finding things that the users want and articulating the feedback in a credible way. Here again the impact on end user
