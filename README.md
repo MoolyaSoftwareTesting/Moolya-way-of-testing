@@ -172,7 +172,8 @@ Putting yourselves in the shoes of the users, finding things that the users want
 
 Implementing different coverage models. How thoroughly have you examined the product with respect to choose model. So if you chose a model that is 'writing n test cases and executing all of them' then one can achieve 100% test coverage. One of many test coverage models used in Moolya to test smart phone apps.
 
-![Mobile app test coverage model](/images/COP FLUNG GUN.png)
+ ![Mobile app test coverage model](/images/COP FLUNG GUN.png)
+
 
 
 ## 😊 Spread the word!
