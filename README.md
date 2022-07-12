@@ -180,13 +180,5 @@ Implementing different coverage models. How thoroughly have you examined the pro
 </details>
 
 
-## 😊 Spread the word!
-
-<p>
-If you want to say thank you and/or use Moolya way of Testing. <br />   
-Add a GitHub Star to the project!<br />    
-Tweet about the project on your Twitter! Tag @MoolyaTesting.   
-</p>
-
 ## ⚠ License
 The MWT is free and open-source software licensed under the GNU General Public License v3.0
